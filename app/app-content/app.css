@@ -1,0 +1,17 @@
+﻿body {
+    padding: 20px 0;
+    background:url(/app/images/bg.jpg) repeat ;
+}
+
+.flash-message {
+    margin-top: 20px;
+}
+header .mandal-navs li a, header .mandal-navs li a:hover {
+  background: #601404 !important;
+  border: medium none !important;
+  color: #fff !important;
+}
+.mandal-navs li {
+  text-align: center;
+  width: 120px;
+}

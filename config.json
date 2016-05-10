@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "localhost:27017/mandal",
+    "apiUrl":  "http://localhost:5000/api",
+    "secret": "Janseva Hich Ishwar Seva"
+}
